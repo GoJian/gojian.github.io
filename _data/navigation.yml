@@ -3,20 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Projects"
+    url: /portfolio/
+        
+  - title: "Conferences"
+    url: /talks/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://geobio.space/blog/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Gong_CV_Bio.pdf
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
