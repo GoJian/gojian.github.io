@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Gong / My Research Site"
+title                    : "Jian Gong / Research Site"
 title_separator          : "-"
 name                     : &name "Jian Gong"
 description              : &description "Postdoc Associate at MIT"
