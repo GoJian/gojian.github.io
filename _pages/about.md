@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Jian Gong's Academic Website"
+title: "Welcome to my academic website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. I am a research scientist working at University of Wyoming, School of Computing. Here my mission is to promote computing in all fields of science, engineering, art and business. My job is to help accelerate your ideas and your research by employing state-of-the-art techniques and facilities available at the School of Computing. Please don't hestitate to reach out to me to discuss ideas and I will do my best to resolve any questions you may have.
+I am a research scientist working at University of Wyoming, School of Computing. Here my mission is to promote computing in all fields of science, engineering, art and business. My job is to help accelerate your ideas and your research by employing state-of-the-art techniques and facilities available at the School of Computing. Please don't hestitate to reach out to me to discuss ideas and I will do my best to resolve any questions you may have.
 
-For research, I am a geobiologist, astrobiologist and applied computational scientist interested in understaing the planet Earth as system and how various physical, chemical and biological processes are interlinked and coevolved together through deep time. Beyond Earth, I also investigate the environmental evolution of other planets and their moons in the solar system. I work on NASA-sponsored projects such as life detection missions, environmental characterization and biosignature preservation, as well as topics related to the origin and nature of life. I am interested in complex system science, self-organization pattern formation theories, as well as modeling of large and complex datasets to investigate causes and effects. Ultimately, I work on searching for solutions for fundamental, bold questions such as: what is life, what is consciousness, and what is the nature and reality that we are living in. My main toolkit to resolve these questions are scientific experiments, organized datasets and advanced statistical modeling, deep-learning techniques.
+I am a geobiologist, astrobiologist and applied computational scientist interested in understaing the planet Earth as system and how various physical, chemical and biological processes are interlinked and coevolved together through deep time. Beyond Earth, I also investigate the environmental evolution of other planets and their moons in the solar system. I work on NASA-sponsored projects such as life detection missions, environmental characterization and biosignature preservation, as well as topics related to the origin and nature of life. I am interested in complex system science, self-organization pattern formation theories, as well as modeling of large and complex datasets to investigate causes and effects. Ultimately, I work on searching for solutions for fundamental, bold questions such as: what is life, what is consciousness, and what is the nature and reality that we are living in. My main toolkit to resolve these questions are scientific experiments, organized datasets and advanced statistical modeling, deep-learning techniques.
 
 # Research Areas
 
